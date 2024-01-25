@@ -7,6 +7,8 @@ The primary goal of this analysis is to gain insights into customer segmentation
 ## ✨ Data Sources 
 The Dunnhumby dataset has been obtained from [Kaggle](https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey/data?select=hh_demographic.csv)
 
+AIC & BIC for selecting the optimal number of clusters and determining a balance between model complexity and goodness of fit can be explained further [here](https://vitalflux.com/aic-vs-bic-for-regression-models-formula-examples/)
+
 ## 🌱 Objectives 
 The primary objectives of this clustering project are as follows:
 
